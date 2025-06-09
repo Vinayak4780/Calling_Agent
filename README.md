@@ -266,6 +266,4 @@ For issues and questions:
 ---
 
 **Built with ❤️ using Python, Deepgram, Groq, and ElevenLabs**
-#   C a l l i n g _ A g e n t 
- 
- 
+#
