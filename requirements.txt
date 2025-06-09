@@ -1,0 +1,11 @@
+# requirements.txt
+python-dotenv
+openpyxl
+deepgram-sdk
+elevenlabs
+groq
+livekit
+sounddevice
+soundfile
+httpx
+numpy
